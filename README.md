@@ -1,6 +1,6 @@
 ![Sun Ribbon Arête, on Temple Crag](assets/images/sun-ribbon-2.jpg)
 
-Hi! :) I'm Brett, a senior staff engineer at [Quip](https://quip.com/about), where I've been since autumn 2016. I'm an infrastructure generalist and my current area of focus is our real-time syncing system, but I do my best to balance that with working to address any pain points our engineering community may face as we grow. My core values at work are acting on feedback, fostering an inclusive environment, and treating my coworkers with kindness.
+Hi! :) I'm Brett, a senior staff engineer at [Quip](https://quip.com/about), where I've been since autumn 2016. I'm an infrastructure generalist and my current area of focus is our real-time update syncing system, but I do my best to balance that with working to address any pain points our engineering community may face as we grow. My core values at work are acting on feedback, fostering an inclusive environment, and treating my coworkers with kindness.
 
 I've lived in California since 2007 and spend most of my spare time in the Sierra Nevada, climbing and [shooting photos](https://www.flickr.com/photos/194244949@N04/albums/72157720061526978).
 
@@ -8,11 +8,11 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 
 ### Technical contributions
 
-* [_Quip EKM (Enterprise Key Management)_](https://quip.com/security) TL 2018-2021
+* [_Quip EKM (Enterprise Key Management)_](https://quip.com/security) TL 2018—2021
     * introduced data serialization layer
     * introduced customer data definition + tracking
     * the system is fault-tolerant and supports hundreds of thousands of en/decryptions per second with minimal end-user latency increase
-* Oncall Rotation TL 2021-2022
+* Oncall Rotation TL 2021—2022
 * Infrastructure Team
     * MySQL primary/replica query routing
     * assorted MySQL / Redis resiliency and load balancing work

@@ -20,7 +20,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 ### Cultural contributions
 
 * led an effort to remove noninclusive terminology from our code
-* co-led in a multi-year community undertaking to distribute responsibility of maintaining production health
+* co-led a multi-year community undertaking to distribute responsibility of maintaining production health
     * introduced stewardship labels to code (server paths, services, asynchronous jobs, etc.)
     * redesigned our oncall rotation
     * built production health dashboards for every area

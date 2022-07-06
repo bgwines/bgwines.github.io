@@ -35,7 +35,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Sun Ribbon Arête_ (<8h b2s)
     * _North ridge of Lone Pine Peak_ (8h b2s, roped from Notch A)
     * _Steck-Salathé_ (14h c2c)
-    * _West ridge of Conness_ (15h c2c)
+    * _West ridge of Conness_ (3h b2s roped, 11h c2c)
     * _Lassen Peak_ (11h c2c, in January snows)
 * gym: V9, 5.13b/c
 

@@ -31,9 +31,9 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 ## <span style="color:green">Climbing</span>
 
 * alpine:
+    * _Steck-Salathé_ (14h c2c)
     * _Sun Ribbon Arête_ (<8h b2s)
     * _North ridge of Lone Pine Peak_ (8h b2s, roped from Notch A)
-    * _Steck-Salathé_ (14h c2c)
     * _Tuolomne Alpine Triple Crown: North Peak NW Ridge -> Conness N Ridge -> Conness W Ridge_ (<14h c2c)
 * gym: V9, 5.13b/c
 

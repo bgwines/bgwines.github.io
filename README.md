@@ -1,6 +1,6 @@
 ![Sun Ribbon Arête, on Temple Crag](assets/images/sun-ribbon-2.jpg)
 
-Hi! :) I'm Brett, a senior staff engineer at [Quip](https://quip.com/about), where I've been since autumn 2016. I'm an infrastructure generalist and my current area of focus is our real-time update syncing system, but I do my best to balance that with working to address any pain points our engineering community may face as we grow. My core values at work are acting on feedback, fostering an inclusive environment, and treating my coworkers with kindness.
+Hi! :) I'm Brett (he/him), a senior staff engineer at [Quip](https://quip.com/about), where I've been since autumn 2016. I'm an infrastructure generalist and my current area of focus is our real-time update syncing system, but I do my best to balance that with working to address any pain points our engineering community may face as we grow. My core values at work are acting on feedback, fostering an inclusive environment, and treating my coworkers with kindness.
 
 I've lived in California since 2007 and spend most of my spare time in the Sierra Nevada, climbing and [shooting photos](https://www.flickr.com/photos/194244949@N04/albums/72157720061526978).
 
@@ -32,7 +32,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 
 * alpine:
     * _Sentinel Rock, Steck-Salathé_ (14h c2c)
-    * _Temple Crag, Sun Ribbon Arête_ (<8h b2s)
+    * _Temple Crag, Sun Ribbon Arête_ (<13h c2c)
     * _Lone Pine Peak, North ridge_ (8h b2s, roped from Notch A)
     * _Tuolomne Alpine Triple Crown: North Peak, NW ridge -> Conness, N ridge -> Conness, W ridge_ (<14h c2c)
 * gym: V9, 5.13b/c

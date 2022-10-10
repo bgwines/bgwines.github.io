@@ -34,7 +34,8 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Sentinel Rock, Steck-Salathé_ (14h c2c)
     * _Temple Crag, Sun Ribbon Arête_ (<13h c2c)
     * _Lone Pine Peak, North ridge_ (8h b2s, roped from Notch A)
-    * _Tuolomne Alpine Triple Crown: North Peak, NW ridge -> Conness, N ridge -> Conness, W ridge_ (<14h c2c)
+    * _Tuolomne Alpine Triple Crown: North Peak, NW ridge -> Mt. Conness, N ridge -> Mt. Conness, W ridge_ (<14h c2c)
+    * _Tuolomne Triple Crown: Tenaya Peak -> Matthes Crest -> Cathedral Peak (<14h c2c)
 * gym: V9, 5.13b/c
 
 ## <span style="color:green">Other</span>

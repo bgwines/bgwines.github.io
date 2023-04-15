@@ -36,6 +36,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Tuolomne Alpine Triple Crown: North Peak, NW ridge -> Mt. Conness, N ridge -> Mt. Conness, W ridge_ (<14h c2c)
     * _Tuolomne Triple Crown: Tenaya Peak -> Matthes Crest -> Cathedral Peak_ (<14h c2c)
 * Yosemite:
+    * _Washington Column, The Prow_
     * _The Rostrum, North face_ 
     * _Sentinel Rock, Steck-Salathé_ (14h c2c)
     * _North Dome, Crest Jewel_ (via _Royal Arches_)

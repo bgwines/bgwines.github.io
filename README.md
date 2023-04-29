@@ -1,10 +1,10 @@
 ![Sun Ribbon Arête, on Temple Crag](assets/images/sun-ribbon-2.jpg)
 
-Hi! :) I'm Brett (he/him), a senior staff engineer at [Quip](https://quip.com/about), where I've been since autumn 2016. I'm an infrastructure generalist and my current area of focus is our real-time update syncing system, but I do my best to balance that with working to address any pain points our engineering community may face as we grow. My core values at work are acting on feedback, fostering an inclusive environment, and treating my coworkers with kindness.
+Hi! :) I'm Brett (he/him), a senior staff engineer at [Quip](https://quip.com/about)/[Slack](https://slack.com), where I've been since autumn 2016. I'm an infrastructure generalist and my current area of focus is our real-time update syncing system, but I do my best to balance that with working to address any pain points our engineering community may face as we grow. My core values at work are acting on feedback, fostering an inclusive environment, and treating my coworkers with kindness.
 
 I've lived in California since 2007 and spend most of my spare time in the Sierra Nevada, climbing and [shooting photos](https://www.flickr.com/photos/194244949@N04/albums/72157720061526978).
 
-## <span style="color:green">Quip</span>
+## <span style="color:green">Quip / Slack</span>
 
 ### Technical contributions
 
@@ -14,8 +14,10 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * the system is fault-tolerant and supports hundreds of thousands of en/decryptions per second with minimal end-user latency increase
 * Oncall Rotation TL 2021—2022
 * Infrastructure Team
-    * MySQL primary/replica query routing
+    * MySQL primary / replica query routing
     * assorted MySQL / Redis resiliency and load balancing work
+    * service discovery
+    * real-time update syncing for [Canvas](https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas)
 
 ### Cultural contributions
 
@@ -32,9 +34,12 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 
 * alpine:
     * _Temple Crag, Sun Ribbon arête_ (<13h c2c)
-    * _Lone Pine Peak, North ridge_ (8h b2s, roped from Notch A)
     * _Tuolomne Alpine Triple Crown: North Peak, NW ridge -> Mt. Conness, N ridge -> Mt. Conness, W ridge_ (<14h c2c)
     * _Tuolomne Triple Crown: Tenaya Peak -> Matthes Crest -> Cathedral Peak_ (<14h c2c)
+    * _Lone Pine Peak, N ridge_
+    * _Merriam Peak, Direct N buttress_
+    * _Incredible Hulk, Yggdrasil_
+    * _Clyde Minaret, SE face_
 * Yosemite:
     * _Lost Arrow Spire, Lost Arrow Spire Direct_
     * _Washington Column, The Prow_

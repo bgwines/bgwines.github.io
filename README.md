@@ -43,6 +43,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Merriam Peak, Direct N buttress_
     * _Incredible Hulk, Yggdrasil_
     * _Clyde Minaret, SE face_
+    * _North Palisade, U-notch_
 * Yosemite:
     * _Lost Arrow Spire, Lost Arrow Spire Direct_
     * _Washington Column, The Prow_

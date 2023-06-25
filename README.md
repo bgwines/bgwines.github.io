@@ -17,6 +17,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * MySQL primary / replica query routing
     * assorted MySQL / Redis resiliency and load balancing work
     * service discovery
+    * load-balancing
     * real-time update syncing for [Canvas](https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas)
        * co-designed a new system for delivering deltas
        * optimized the delta delivery path to p50=37ms, p99=200ms

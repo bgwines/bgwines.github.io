@@ -20,7 +20,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * loadshedding
     * real-time update syncing for [Canvas](https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas)
        * co-designed a new system for delivering deltas
-       * optimized the delta delivery path to p50=37ms, p99=200ms
+       * optimized the delta delivery path to p50=34ms, p99=170ms
 
 ### Cultural contributions
 

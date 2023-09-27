@@ -43,6 +43,8 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Tuolomne Alpine Triple Crown: North Peak, NW ridge -> Mt. Conness, N ridge -> Mt. Conness, W ridge_ (<14h c2c)
     * _Tuolomne Triple Crown: Tenaya Peak -> Matthes Crest -> Cathedral Peak_ (<14h c2c)
     * _Mt. Russell: Mithril Dihedral -> Fishhook Arête -> East Ridge_ (15h camp2camp)
+    * _Incredible Hulk, Astrohulk_
+    * _Incredible Hulk, The Polish Route_
     * _Lone Pine Peak, N ridge_
     * _Merriam Peak, Direct N buttress_
     * _Incredible Hulk, Yggdrasil_
@@ -67,9 +69,11 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 
 ![Project Euler](http://projecteuler.net/profile/bgwines.png)
 
----
-
 <a href="mailto: brettwines@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="Email icon" width=30></a>
 <a href="http://www.github.com/bgwines"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="Github icon" width=30></a>
 <a href="https://www.linkedin.com/in/brett-wines-496774221/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn icon" width=30></a>
 <a href="https://www.flickr.com/people/194244949@N04/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/flickr.svg" alt="Flickr icon" width=30></a>
+
+---
+
+![Sun Ribbon Arête, on Temple Crag](assets/images/sun-ribbon-2.jpg)

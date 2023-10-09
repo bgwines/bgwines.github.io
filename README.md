@@ -8,31 +8,30 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 
 ### Technical contributions
 
-* [_Quip EKM (Enterprise Key Management)_](https://quip.com/security) TL 2018—2021
-    * introduced data serialization layer
-    * introduced customer data definition + tracking
-    * the system is fault-tolerant and supports hundreds of thousands of en/decryptions per second with minimal end-user latency increase
-* Oncall Rotation TL 2021—2022
 * Infrastructure Team
     * MySQL primary / replica query routing
     * assorted MySQL / Redis resiliency and load balancing work
     * service discovery
     * loadshedding
-    * real-time update syncing for [Canvas](https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas)
-       * co-designed a new system for delivering deltas
-       * optimized the delta delivery path to p50=34ms, p99=170ms
+* [_Quip EKM (Enterprise Key Management)_](https://quip.com/security) TL 2018—2021
+    * introduced data serialization layer
+    * introduced customer data definition + tracking
+    * the system is fault-tolerant and supports hundreds of thousands of en/decryptions per second with minimal end-user latency increase
+* Oncall Rotation TL 2021—2022
+* Real-time update syncing for [Canvas](https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas)
+    * co-designed a new system for delivering deltas
+    * optimized the delta delivery path to p50=34ms, p99=170ms
 
 ### Cultural contributions
 
-* led an effort to remove noninclusive terminology from our code
 * was picked to help update Slack's engineering expectations
 * co-led a multi-year community undertaking to distribute responsibility of maintaining production health
-    * introduced stewardship labels to code (server paths, services, asynchronous jobs, etc.)
+    * introduced ownership labels to code (server paths, services, asynchronous jobs, etc.)
     * redesigned our oncall rotation
     * built production health dashboards for every area
     * led workshops on and wrote documentation for production monitoring
+* led an effort to remove noninclusive terminology from our code
 * helped introduce "Things I Did documents" to increase IC agency in the people review process, in response to community feedback
-
 
 ## <span style="color:green">Climbing</span>
 
@@ -54,8 +53,10 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 * Yosemite:
     * _Lost Arrow Spire, Lost Arrow Spire Direct_
     * _Washington Column, The Prow_
-    * _The Rostrum, North face_ 
+    * _Washington Column, Astroman_
+    * _The Rostrum, North face_
     * _Sentinel Rock, Steck-Salathé_
+    * _Clouds Rest, My Favorite Things_
     * _North Dome, Crest Jewel_ (via _Royal Arches_)
 * gym: V9, 5.13b/c
 
@@ -64,7 +65,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 * [`symbol-navigation-hydra`](https://github.com/bgwines/symbol-navigation-hydra), an Emacs package for code navigation
 * lifting: 250lbs low-bar squat
 * cycling: Old La Honda 32:15
-* I like to spend evenings playing piano. I'm currently playing Schubert's fantasie in f and Bach partita 2. Some of my favorite pieces from the past are the Chopin e minor concerto (first movt.), Beethoven's "Les Adieux" sonata, and the Mozart d minor concerto.
+* I like to spend evenings playing piano. I'm currently playing Schubert's fantasie in f and Bach's partita 2 in c. Some of my favorite pieces from the past are the Chopin e minor concerto (first movt.), Beethoven's "Les Adieux" sonata, and the Mozart d minor concerto.
 * [Titling: Fun in the Library](https://titling.tumblr.com)
 
 ![Project Euler](http://projecteuler.net/profile/bgwines.png)

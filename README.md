@@ -10,6 +10,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 
 * Infrastructure Team
     * MySQL load balancing
+    * MySQL connection locks
     * MySQL / Redis resiliency
     * service discovery
     * loadshedding

@@ -9,10 +9,11 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 ### Technical contributions
 
 * Infrastructure Team
-    * MySQL primary / replica query routing
-    * assorted MySQL / Redis resiliency and load balancing work
+    * MySQL load balancing
+    * MySQL / Redis resiliency
     * service discovery
     * loadshedding
+    * application performance
 * [_Quip EKM (Enterprise Key Management)_](https://quip.com/security) TL 2018—2021
     * introduced data serialization layer
     * introduced customer data definition + tracking

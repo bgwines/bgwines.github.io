@@ -41,13 +41,13 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Evolution Traverse, first half_ (14h)
     * _Temple Crag, Dark Star_ (15h c2c)
     * _Temple Crag, Sun Ribbon arête_ (13h c2c)
-    * _Lone Pine Peak, NE ridge_
+    * _Lone Pine Peak, full N ridge_ (14h c2c)
+    * _Lone Pine Peak, full NE ridge_ (c2c)
     * _Tuolomne Alpine Triple Crown: North Peak, NW ridge -> Mt. Conness, N ridge -> Mt. Conness, W ridge_ (<14h c2c)
     * _Tuolomne Triple Crown: Tenaya Peak -> Matthes Crest -> Cathedral Peak_ (<14h c2c)
     * _Mt. Russell: Mithril Dihedral -> Fishhook Arête -> East Ridge_ (15h camp2camp)
     * _Incredible Hulk, Astrohulk_
     * _Incredible Hulk, The Polish Route_
-    * _Lone Pine Peak, N ridge_
     * _Merriam Peak, Direct N buttress_
     * _Incredible Hulk, Yggdrasil_
     * _Clyde Minaret, SE face_

@@ -37,22 +37,20 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 
 ## <span style="color:green">Climbing</span>
 
-* alpine:
+* Sierra Nevada:
     * _Evolution Traverse, first half_
     * _Thunderbolt–Sill Traverse_ (c2c)
     * _Lone Pine Peak, full N ridge_ (14h c2c)
     * _Lone Pine Peak, full NE ridge_ (c2c)
     * _Temple Crag, Dark Star_ (15h c2c)
     * _Temple Crag, Sun Ribbon arête_ (13h c2c)
+    * _Mt. Russell, Mithril Dihedral -> Fishhook Arête -> East Ridge_
     * _Tuolomne Alpine Triple Crown: North Peak, NW ridge -> Mt. Conness, N ridge -> Mt. Conness, W ridge_
     * _Tuolomne Triple Crown: Tenaya Peak -> Matthes Crest -> Cathedral Peak_
-    * _Mt. Russell, Mithril Dihedral -> Fishhook Arête -> East Ridge_
     * _Incredible Hulk, Astrohulk_
     * _Incredible Hulk, The Polish Route_
     * _Merriam Peak, Direct N buttress_
-    * _Colchuck Peak, N Buttress Couloir_
-    * _Mt. Shasta, Hotlum Glacier_ (via _N Ice Gully_)
-    * _Incredible Hulk, Yggdrasil_
+    * _Incredible Hulk, Yggdrasil / Red Dihedral_
     * _Clyde Minaret, SE face_
     * _North Palisade, U-notch_
     * _Mt. Whitney, E buttress_
@@ -65,6 +63,9 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Sentinel Rock, Steck-Salathé_
     * _Clouds Rest, My Favorite Things_
     * _North Dome, Crest Jewel_ (via _Royal Arches_)
+* elsewhere:
+    * _Colchuck Peak, N Buttress Couloir_
+    * _Mt. Shasta, Hotlum Glacier_ (via _N Ice Gully_)
 * gym: V9, 5.13b/c
 
 ## <span style="color:green">Other</span>

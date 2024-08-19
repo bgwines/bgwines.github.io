@@ -40,6 +40,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 * Sierra Nevada:
     * _Evolution Traverse, first half_
     * _Thunderbolt–Sill Traverse_ (c2c)
+    * _Keeler Needle, Harding Route (direct finish)_ (c2c)
     * _Lone Pine Peak, full N ridge_ (14h c2c)
     * _Lone Pine Peak, full NE ridge_ (c2c)
     * _Temple Crag, Dark Star_ (15h c2c)

@@ -15,10 +15,12 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * service discovery
     * loadshedding
     * application performance
+    * transaction cache
 * [_Quip EKM (Enterprise Key Management)_](https://quip.com/security) TL 2018—2021
     * introduced data serialization layer
     * introduced customer data definition + tracking
     * the system is fault-tolerant and supports hundreds of thousands of en/decryptions per second with minimal end-user latency increase
+* infrastructure office hours
 * Oncall Rotation TL 2021—2022
 * Real-time update syncing for [Canvas](https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas)
     * co-designed a new system for delivering deltas

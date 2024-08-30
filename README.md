@@ -30,7 +30,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 ### Cultural contributions
 
 * was picked to help update Slack's engineering expectations
-* co-led a multi-year community undertaking to distribute responsibility of maintaining production health
+* co-led a multi-year grassroots undertaking to distribute responsibility of maintaining application health
     * introduced ownership labels to code (server paths, services, asynchronous jobs, etc.)
     * redesigned our oncall rotation
     * built production health dashboards for every area

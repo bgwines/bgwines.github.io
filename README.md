@@ -9,22 +9,22 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 ### Technical contributions
 
 * Infrastructure Team
-    * MySQL load balancing
-    * MySQL connection locks
-    * MySQL / Redis resiliency
+    * DB connection locks
     * service discovery
     * loadshedding
-    * application performance
-    * transaction cache
+    * various caching projects
+    * various resiliency projects
+    * various DB load balancing projects
+    * various application performance projects
 * [_Quip EKM (Enterprise Key Management)_](https://quip.com/security) TL 2018—2021
-    * introduced data serialization layer
-    * introduced customer data definition + tracking
+    * led this project from inception to launch to our first customer
     * the system is fault-tolerant and supports hundreds of thousands of en/decryptions per second with minimal end-user latency increase
-* infrastructure office hours
-* Oncall Rotation TL 2021—2022
+    * introduced various new auxiliary components along the way, e.g. data serialization layer / generalized caching framework / tracking mechanism for customer data
 * Real-time update syncing for [Canvas](https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas)
     * co-designed a new system for delivering deltas
-    * optimized the delta delivery path to p50=34ms, p99=170ms
+    * heavily optimized the delta delivery path
+* Infrastructure weekly office hours
+* Oncall Rotation TL 2021,2022
 
 ### Cultural contributions
 

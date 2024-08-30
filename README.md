@@ -36,7 +36,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * built production health dashboards for every area
     * led workshops on and wrote documentation for production monitoring
 * led an effort to remove noninclusive terminology from our code
-* helped introduce "Things I Did documents" to increase IC agency in the people review process, in response to community feedback
+* helped introduce "Things I Did documents" to increase IC agency in the people review process
 
 ## <span style="color:green">Climbing</span>
 

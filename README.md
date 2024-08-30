@@ -23,6 +23,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 * Real-time update syncing for [Canvas](https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas)
     * co-designed a new system for delivering deltas
     * heavily optimized the delta delivery path
+* advised various projects for other teams, e.g. distributed systems, API design, etc.
 * Infrastructure weekly office hours
 * Oncall Rotation TL 2021, 2022
 

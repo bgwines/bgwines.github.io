@@ -24,7 +24,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * co-designed a new system for delivering deltas
     * heavily optimized the delta delivery path
 * Infrastructure weekly office hours
-* Oncall Rotation TL 2021,2022
+* Oncall Rotation TL 2021, 2022
 
 ### Cultural contributions
 

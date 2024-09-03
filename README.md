@@ -2,7 +2,7 @@
 
 Hi! :) I'm Brett (he/him), a senior staff engineer at [Quip](https://quip.com/about)/[Slack](https://slack.com), where I've been since autumn 2016. I'm an infrastructure generalist and my current area of focus is database scaling, but I do my best to balance that with working to address any pain points our engineering organization may face as we grow. My core values at work are acting on feedback, fostering an inclusive environment, and treating my coworkers with kindness.
 
-I've lived in California since 2007 and spend most of my spare time in the Sierra Nevada, climbing and [shooting photos](https://www.flickr.com/photos/194244949@N04/albums/72157720061526978).
+I've lived in California since 2007 and spend most of my spare time in the Sierra Nevada, climbing and [shooting photos](https://www.flickr.com/photos/194244949@N04/).
 
 ## <span style="color:green">Quip / Slack</span>
 

@@ -58,7 +58,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Clyde Minaret, SE face_
     * _North Palisade, U-notch_
     * _Mt. Whitney, E buttress_
-    * _Bear Creek Spire, N Arête_
+    * _Bear Creek Spire, N arête_
 * Yosemite:
     * _Liberty Cap, Scarface (Free)_
     * _Washington Column, Astroman_
@@ -78,7 +78,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 ## <span style="color:green">Other</span>
 
 * [`symbol-navigation-hydra`](https://github.com/bgwines/symbol-navigation-hydra), an Emacs package for code navigation
-* lifting: 250lbs low-bar squat
+* lifting: 4x5x225lbs low-bar squat
 * cycling: Old La Honda 32:15
 * I like to spend evenings playing piano. I'm currently playing Schubert's fantasie in f and Bach's partita 2 in c. Some of my favorite pieces from the past are the Chopin e minor concerto (first movt.), Beethoven's "Les Adieux" sonata, and the Mozart d minor concerto.
 * [Titling: Fun in the Library](https://titling.tumblr.com)

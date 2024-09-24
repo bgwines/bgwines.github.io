@@ -58,6 +58,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Clyde Minaret, SE face_
     * _North Palisade, U-notch_
     * _Mt. Whitney, E buttress_
+    * _Bear Creek Spire, N Arête_
 * Yosemite:
     * _Liberty Cap, Scarface (Free)_
     * _Washington Column, Astroman_
@@ -67,9 +68,11 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Sentinel Rock, Steck-Salathé_
     * _Clouds Rest, My Favorite Things_
     * _North Dome, Crest Jewel_ (via _Royal Arches_)
+    * _Washington Column, South Face_ (c2c)
 * elsewhere:
     * _Colchuck Peak, N Buttress Couloir_
     * _Mt. Shasta, Hotlum Glacier_ (via _N Ice Gully_)
+    * _Mt. Stuart, Direct N Ridge_
 * gym: V9, 5.13b/c
 
 ## <span style="color:green">Other</span>

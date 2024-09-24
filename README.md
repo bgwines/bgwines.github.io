@@ -8,7 +8,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 
 ### Technical contributions
 
-* Infrastructure Team
+* Quip Infrastructure Team
     * DB connection locks
     * service discovery
     * loadshedding
@@ -24,8 +24,8 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * co-designed a new system for delivering deltas
     * heavily optimized the delta delivery path
 * advised various projects for other teams, e.g. distributed systems, API design, etc.
-* Infrastructure weekly office hours
-* Oncall Rotation TL 2021, 2022
+* Quip Infrastructure weekly office hours
+* Quip Oncall Rotation TL 2021, 2022
 
 ### Cultural contributions
 

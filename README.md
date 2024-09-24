@@ -41,7 +41,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 ## <span style="color:green">Climbing</span>
 
 * Sierra Nevada:
-    * _Evolution Traverse, (to Mt. Wallace in a day)_
+    * _Evolution Traverse (to Mt. Wallace in a day)_
     * _Thunderbolt–Sill Traverse_ (c2c)
     * _Keeler Needle, Harding Route (direct finish)_ (c2c)
     * _Lone Pine Peak, full N ridge_ (14h c2c)

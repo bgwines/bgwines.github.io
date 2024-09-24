@@ -12,6 +12,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * DB connection locks
     * service discovery
     * loadshedding
+    * transaction state management
     * various caching projects
     * various resiliency projects
     * various DB load balancing projects

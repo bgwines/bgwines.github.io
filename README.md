@@ -1,4 +1,4 @@
-![Evolution Traverse](assets/images/DSC04719-2.jpg)
+![Evolution Traverse 2023](assets/images/DSC04719-2.jpg)
 
 Hi! :) I'm Brett (he/him), a senior staff engineer at [Quip](https://quip.com)/[Slack](https://slack.com), where I've been since autumn 2016. I'm an infrastructure generalist and my current areas of focus are database load and transaction length, but I do my best to balance that with working to address any pain points our engineering organization may face as we grow. My core values at work are acting on feedback, fostering an inclusive environment, and treating my coworkers with kindness.
 
@@ -92,4 +92,4 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 
 ---
 
-![Sun Ribbon Arête, on Temple Crag](assets/images/sun-ribbon-2.jpg)
+![Evolution Traverse 2024](assets/images/DSC00359.jpg)

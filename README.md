@@ -8,7 +8,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 
 ### Technical contributions
 
-* Quip Infrastructure Team
+* Quip Infrastructure Team 2018, 2021–current
     * DB connection locks
     * service discovery
     * loadshedding
@@ -22,7 +22,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * led this project from inception to launch to our first customer
     * the system is fault-tolerant and supports hundreds of thousands of en/decryptions per second with minimal end-user latency increase
     * introduced various new auxiliary components along the way, e.g. data serialization layer / generalized caching framework / tracking mechanism for customer data
-* Real-time update syncing for [Canvas](https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas)
+* Real-time update syncing for [Canvas](https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas) 2022, 2023
     * co-designed a new system for delivering deltas
     * heavily optimized the delta delivery path
 * advised various projects for other teams, e.g. distributed systems, API design, etc.

@@ -15,6 +15,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * transaction state management
     * various caching projects
     * various resiliency projects
+    * various DB performance projects
     * various DB load balancing projects
     * various application performance projects
 * [_Quip EKM (Enterprise Key Management)_](https://quip.com/security) TL 2018—2021

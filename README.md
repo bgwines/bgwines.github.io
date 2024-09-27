@@ -1,6 +1,6 @@
 ![Evolution Traverse 2023](assets/images/DSC04719-2.jpg)
 
-Hi! :) I'm Brett (he/him), a senior staff engineer at [Quip](https://quip.com)/[Slack](https://slack.com), where I've been since autumn 2016. I'm an infrastructure generalist and my current areas of focus are database load and transaction length, but I do my best to balance that with working to address any pain points our engineering organization may face as we grow. My core values at work are acting on feedback, fostering an inclusive environment, and treating my coworkers with kindness.
+Hi! :) I'm Brett (he/him), a senior staff engineer at [Quip](https://quip.com)/[Slack](https://slack.com), where I've been since 2016. I'm an infrastructure generalist and my current areas of focus are database load and transaction length, but I do my best to balance that with working to address any pain points our engineering organization may face as we grow. My core values at work are acting on feedback, fostering an inclusive environment, and treating my coworkers with kindness.
 
 I've lived in California since 2007 and spend most of my spare time in the Sierra Nevada, climbing and [shooting photos](https://www.flickr.com/photos/194244949@N04/).
 
@@ -29,7 +29,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 * Quip Infrastructure weekly office hours
 * Quip Oncall Rotation TL (2021, 2022)
 
-### Cultural contributions
+### Operational contributions
 
 * was picked to help update Slack's engineering expectations
 * co-led a multi-year grassroots undertaking to distribute responsibility of maintaining application health
@@ -82,7 +82,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 * [`symbol-navigation-hydra`](https://github.com/bgwines/symbol-navigation-hydra), an Emacs package for code navigation
 * lifting: 4x5x225lbs low-bar squat
 * cycling: Old La Honda 32:15
-* I like to spend evenings playing piano. I'm currently playing Schubert's fantasie in f and Bach's partita 2 in c. Some of my favorite pieces from the past are the Chopin e minor concerto (first movt.), Beethoven's "Les Adieux" sonata, and the Mozart d minor concerto.
+* I like to spend evenings playing piano. My most recent pieces are Schubert's fantasie in f and Bach's partita 2 in c. Some of my favorite pieces from the past are the Chopin e minor concerto (first movt.), Beethoven's "Les Adieux" sonata, and the Mozart d minor concerto.
 * [Titling: Fun in the Library](https://titling.tumblr.com)
 
 ![Project Euler](http://projecteuler.net/profile/bgwines.png)

@@ -51,6 +51,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Temple Crag, Dark Star_ (15h c2c)
     * _Temple Crag, Sun Ribbon arête_ (13h c2c)
     * _Merriam Peak, Direct N buttress_ (c2c)
+    * _Mt. Conness, Harding Route_ (14h c2c)
     * _Mt. Russell, Mithril Dihedral -> Fishhook Arête -> East Ridge_
     * _Tuolomne Alpine Triple Crown: North Peak, NW ridge -> Mt. Conness, N ridge -> Mt. Conness, W ridge_
     * _Tuolomne Triple Crown: Tenaya Peak -> Matthes Crest -> Cathedral Peak_

@@ -12,7 +12,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * [connection state management](https://slack.engineering/were-all-just-looking-for-connection/)
     * transaction state management
     * transaction length
-    * database connection locks
+    * DB connection locks
     * loadshedding
     * Python runtime
     * service discovery

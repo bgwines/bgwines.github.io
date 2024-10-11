@@ -9,10 +9,13 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 ### Technical contributions
 
 * Quip Infrastructure Team (2018, 2021–current)
+    * [connection state management](https://slack.engineering/were-all-just-looking-for-connection/)
     * DB connection locks
     * service discovery
     * loadshedding
+    * transaction length
     * transaction state management
+    * Python runtime
     * various caching projects
     * various resiliency projects
     * various DB performance projects

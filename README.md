@@ -11,7 +11,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 * Quip Infrastructure Team (2018, 2021–current)
     * [connection state management](https://slack.engineering/were-all-just-looking-for-connection/)
     * transaction state management
-    * transaction length
+    * transaction length reduction
     * DB connection locks
     * loadshedding
     * Python runtime

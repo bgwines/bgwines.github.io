@@ -67,7 +67,6 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Bear Creek Spire, N arête_
 * Yosemite:
     * _Ribbon Falls Wall, Golden Corners_
-    * _Slab Happy Pinnacle, Golden Years_
     * _Lost Brother, Wayward Son_
     * _The Rostrum, Resurrection_
     * _Liberty Cap, Scarface (Free)_

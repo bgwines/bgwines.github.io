@@ -46,7 +46,8 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 ## <span style="color:green">Climbing</span>
 
 * Sierra Nevada:
-    * _Evolution Traverse (to Mt. Wallace in a day)_
+    * [_Full Evolution Crest Traverse (south to north)_ (exited Lamarck Col)](https://www.mountainproject.com/forum/topic/201280854/full-evolution-crest-attempt-july-2025)
+    * _Evolution Traverse_ (to Mt. Wallace in a day)
     * _Thunderbolt–Sill Traverse_ (c2c)
     * _Keeler Needle, Harding Route (direct finish)_ (c2c)
     * _Lone Pine Peak, full N ridge_ (14h c2c)

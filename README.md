@@ -45,27 +45,36 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 
 ## <span style="color:green">Climbing</span>
 
+* First Ascents:
+    * _The Miter, Janitorial Service_ (6 pitches, 5.11a)
+    * _Mt. Winchell, Direct W arête_ (3 pitches, direct start to W arête)
 * Sierra Nevada:
     * [_Full Evolution Crest Traverse (south to north)_ (exited Lamarck Col)](https://www.mountainproject.com/forum/topic/201280854/full-evolution-crest-attempt-july-2025)
     * _Evolution Traverse_ (to Mt. Wallace in a day)
-    * _Thunderbolt–Sill Traverse_ (c2c)
     * _Keeler Needle, Harding Route (direct finish)_ (c2c)
+    * _Thunderbolt–Sill Traverse_ (c2c)   
     * _Lone Pine Peak, full N ridge_ (14h c2c)
     * _Lone Pine Peak, full NE ridge_ (c2c)
     * _Temple Crag, Dark Star_ (15h c2c)
     * _Temple Crag, Sun Ribbon arête_ (13h c2c)
+    * _Mt. Chamberlin, The Sword in the Stone_
+    * _Trapezoid Peak, Harvest Time_
     * _Merriam Peak, Direct N buttress_ (c2c)
     * _Mt. Conness, Harding Route_ (14h c2c)
     * _Mt. Russell, Mithril Dihedral -> Fishhook Arête -> East Ridge_
     * _Tuolomne Alpine Triple Crown: North Peak, NW ridge -> Mt. Conness, N ridge -> Mt. Conness, W ridge_
     * _Tuolomne Triple Crown: Tenaya Peak -> Matthes Crest -> Cathedral Peak_
+    * _Regge Pole, Free Radical_
     * _Incredible Hulk, Astrohulk_
     * _Incredible Hulk, The Polish Route_
     * _Incredible Hulk, Yggdrasil / Red Dihedral_
     * _Clyde Minaret, SE face_
     * _North Palisade, U-notch_
+    * _The Juggernaut, Cyttorak (c2c)_
     * _Mt. Whitney, E buttress_
     * _Bear Creek Spire, N arête_
+    * _Mt. Humphreys, E arête_
+    * _Mt. Emerson, Waterfall Route_
 * Yosemite:
     * _Ribbon Falls Wall, Golden Corners_
     * _Lost Brother, Wayward Son_

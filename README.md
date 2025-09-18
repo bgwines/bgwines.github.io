@@ -46,8 +46,9 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 ## <span style="color:green">Climbing</span>
 
 * First Ascents:
-    * _The Miter, Janitorial Service_ (6 pitches, 5.11a)
-    * _Mt. Winchell, Direct W arête_ (3 pitches, direct start to W arête)
+    * [_Mt. Winchell, Silver Linings Arête (IV 5.10c 1900' 12 pitches)_](https://www.mountainproject.com/route/201712046/silver-linings-arete) with Brandon Adams
+    * [_Mt. Winchell, Training Day (IV 5.10b 1500' 11 pitches)_](https://www.mountainproject.com/route/201694272/training-day) with Travis Heidepreim
+    * [_The Miter, Janitorial Service (II 5.11a 600' 6 pitches)_](https://www.mountainproject.com/route/201552144/janitorial-service) with Steph Abegg
 * Sierra Nevada:
     * [_Full Evolution Crest Traverse (south to north)_ (exited Lamarck Col)](https://www.mountainproject.com/forum/topic/201280854/full-evolution-crest-attempt-july-2025)
     * _Evolution Traverse_ (to Mt. Wallace in a day)

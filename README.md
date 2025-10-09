@@ -26,7 +26,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * the system is fault-tolerant and supports hundreds of thousands of en/decryptions per second with minimal end-user latency increase
     * introduced various new auxiliary components along the way, e.g. data serialization layer / generalized caching framework / tracking mechanism for customer data
 * Real-time update syncing for [Canvas](https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas) (2022, 2023)
-    * co-designed a new system for delivering deltas
+    * co-designed a new system for delivering deltas (patent number 20240195847)
     * heavily optimized the delta delivery path
 * advised various projects for other teams, e.g. distributed systems, API design, etc.
 * Quip Infrastructure weekly office hours
@@ -47,13 +47,13 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 
 * First Ascents:
     * [_Mt. Winchell, Silver Linings Arête (IV 5.10c 1900' 12 pitches)_](https://www.mountainproject.com/route/201712046/silver-linings-arete) with Brandon Adams
-    * [_Mt. Winchell, Training Day (IV 5.10b 1500' 11 pitches)_](https://www.mountainproject.com/route/201694272/training-day) with Travis Heidepreim
+    * [_Mt. Winchell, Training Day (IV 5.10b 1800' 11 pitches)_](https://www.mountainproject.com/route/201694272/training-day) with Travis Heidepreim
     * [_The Miter, Janitorial Service (II 5.11a 600' 6 pitches)_](https://www.mountainproject.com/route/201552144/janitorial-service) with Steph Abegg
 * Sierra Nevada:
     * [_Full Evolution Crest Traverse (south to north)_ (exited Lamarck Col)](https://www.mountainproject.com/forum/topic/201280854/full-evolution-crest-attempt-july-2025)
     * _Evolution Traverse_ (to Mt. Wallace in a day)
     * _Keeler Needle, Harding Route (direct finish)_ (c2c)
-    * _Thunderbolt–Sill Traverse_ (c2c)   
+    * _Thunderbolt–Sill Traverse_ (c2c)
     * _Lone Pine Peak, full N ridge_ (14h c2c)
     * _Lone Pine Peak, full NE ridge_ (c2c)
     * _Temple Crag, Dark Star_ (15h c2c)

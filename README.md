@@ -8,8 +8,12 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 
 ### Technical contributions
 
-* Quip Infrastructure Team (2018, 2021–current)
+* Slack Core Infrastructure Team (2026–current)
+    * load management
+* Quip Infrastructure Team (2018, 2021–2025)
     * [connection state management](https://slack.engineering/were-all-just-looking-for-connection/)
+    * DB overload protection
+    * server overload protection
     * transaction state management
     * transaction length reduction
     * DB connection locks

@@ -50,6 +50,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 ## <span style="color:green">Climbing</span>
 
 * First Ascents:
+    * [_Middle Cathedral Rock, Borealis (VI 5.13a 2200' 23 pitches)_](https://www.mountainproject.com/route/203118970/borealis) with Brandon Adams, Lance Colley, and Trish Matheny
     * [_Mt. Winchell, Silver Linings Arête (IV 5.10c 1900' 12 pitches)_](https://www.mountainproject.com/route/201712046/silver-linings-arete) with Brandon Adams
     * [_Mt. Winchell, Training Day (IV 5.10b 1800' 11 pitches)_](https://www.mountainproject.com/route/201694272/training-day) with Travis Heidepreim
     * [_The Miter, Janitorial Service (II 5.11a 600' 6 pitches)_](https://www.mountainproject.com/route/201552144/janitorial-service) with Steph Abegg

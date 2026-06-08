@@ -25,7 +25,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * various DB performance projects
     * various DB load balancing projects
     * various application performance projects
-* [_Quip EKM (Enterprise Key Management)_](https://quip.com/security) TL (2018–2021)
+* [_Quip EKM (Enterprise Key Management)_](https://quip.com/security) Tech Lead (2018–2021)
     * led this project from inception to launch to our first customer
     * the system is fault-tolerant and supports hundreds of thousands of en/decryptions per second with minimal end-user latency increase
     * introduced various new auxiliary components along the way, e.g. data serialization layer / generalized caching framework / tracking mechanism for customer data

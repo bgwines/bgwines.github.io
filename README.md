@@ -63,6 +63,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Lone Pine Peak, full NE ridge_ (c2c)
     * _Temple Crag, Dark Star_ (15h c2c)
     * _Temple Crag, Sun Ribbon arête_ (13h c2c)
+    * _Bubbs Creek Wall, The Sensei_
     * _Mt. Chamberlin, The Sword in the Stone_
     * _Trapezoid Peak, Harvest Time_
     * _Merriam Peak, Direct N buttress_ (c2c)
@@ -98,7 +99,6 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Colchuck Peak, N Buttress Couloir_
     * _Mt. Shasta, Hotlum Glacier_ (via _N Ice Gully_)
     * _Mt. Stuart, Direct N Ridge_
-* gym: V9, 5.13b/c
 
 ## <span style="color:green">Other</span>
 
@@ -113,6 +113,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 <a href="http://www.github.com/bgwines"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="Github icon" width=30></a>
 <a href="https://www.linkedin.com/in/brett-wines-496774221/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn icon" width=30></a>
 <a href="https://www.flickr.com/people/194244949@N04/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/flickr.svg" alt="Flickr icon" width=30></a>
+[<img width="30" height="30" alt="Screenshot 2026-06-21 at 10 04 35 PM" src="https://github.com/user-attachments/assets/003f338e-6551-4c7b-8e1a-35c9303f248d" />](https://www.mountainproject.com/user/111390636/brett-wines)
 
 ---
 

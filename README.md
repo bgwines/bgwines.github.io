@@ -9,7 +9,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
 ### Technical contributions
 
 * Slack Core Infrastructure Team (2026–current)
-    * load management
+    * [DB overload protection](https://github.com/vitessio/vitess/issues/20639)
 * Quip Infrastructure Team (2018, 2021–2025)
     * [connection state management](https://slack.engineering/were-all-just-looking-for-connection/)
     * DB overload protection
@@ -63,6 +63,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * _Lone Pine Peak, full NE ridge_ (c2c)
     * _Temple Crag, Dark Star_ (15h c2c)
     * _Temple Crag, Sun Ribbon arête_ (13h c2c)
+    * _Incredible Hulk, The Venturi Effect_
     * _Incredible Hulk, Blowhard_ (c2c)
     * _Bubbs Creek Wall, The Sensei_
     * _Mt. Chamberlin, The Sword in the Stone_

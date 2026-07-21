@@ -14,12 +14,12 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * [connection state management](https://slack.engineering/were-all-just-looking-for-connection/)
     * DB overload protection
     * server overload protection
+    * service discovery
     * transaction state management
     * transaction length reduction
     * DB connection locks
     * loadshedding
     * Python runtime
-    * service discovery
     * various caching projects
     * various resiliency projects
     * various DB performance projects
@@ -33,7 +33,6 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * co-designed a new system for delivering deltas (patent number [20240195847](https://ppubs.uspto.gov/api/pdf/downloadPdf/US-20240195847-A1?source=US-PGPUB&requestToken=eyJzdWIiOiI5NTRmMjBlMy02MDNiLTQyODctODlmNS00NThiZGVhMzkzMjAiLCJ2ZXIiOiIwN2M4NjFiYy0zNDdlLTRkOGEtYjM0Zi1mY2UzM2UwNWU3NTgiLCJleHAiOjB9))
     * heavily optimized the delta delivery path
 * advised various projects for other teams, e.g. distributed systems, API design, etc.
-* Quip Infrastructure weekly office hours
 * Quip Oncall Rotation TL (2021, 2022)
 
 ### Operational contributions

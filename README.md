@@ -30,7 +30,7 @@ I've lived in California since 2007 and spend most of my spare time in the Sierr
     * the system is fault-tolerant and supports hundreds of thousands of en/decryptions per second with minimal end-user latency increase
     * introduced various new auxiliary components along the way, e.g. data serialization layer / generalized caching framework / tracking mechanism for customer data
 * Real-time update syncing for [Canvas](https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas) (2022, 2023)
-    * co-designed a new system for delivering deltas (patent number 20240195847)
+    * co-designed a new system for delivering deltas (patent number [20240195847](https://ppubs.uspto.gov/api/pdf/downloadPdf/US-20240195847-A1?source=US-PGPUB&requestToken=eyJzdWIiOiI5NTRmMjBlMy02MDNiLTQyODctODlmNS00NThiZGVhMzkzMjAiLCJ2ZXIiOiIwN2M4NjFiYy0zNDdlLTRkOGEtYjM0Zi1mY2UzM2UwNWU3NTgiLCJleHAiOjB9))
     * heavily optimized the delta delivery path
 * advised various projects for other teams, e.g. distributed systems, API design, etc.
 * Quip Infrastructure weekly office hours
